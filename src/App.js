@@ -14,18 +14,18 @@ const customers = [
   {
     'id': 2,
     'image': 'https://placeimg.com/64/64/2',
-    'name': '김민정',
-    'birthday': '950121',
+    'name': '삐뽀',
+    'birthday': '900808',
     'gender': '여자',
     'job': '프로그래머'
   },
   {
     'id': 3,
     'image': 'https://placeimg.com/64/64/3',
-    'name': '권민지',
-    'birthday': '940304',
+    'name': '땡땡',
+    'birthday': '880304',
     'gender': '여자',
-    'job': '대학생'
+    'job': '의사'
   }
 ]
 
